@@ -113,7 +113,7 @@ function App() {
         <section id="projects" className="section soft">
           <div className="section-heading">
             <p className="eyebrow">PROJECTS</p>
-            <h2>Things I've built</h2>
+            <h2>Things I Have built</h2>
           </div>
           <div className="project-grid">
             {projects.map((project) => (
