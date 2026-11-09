@@ -29,7 +29,9 @@ function App() {
   return (
     <div className="app">
       <header className="navbar">
-        <a className="brand" href="#home">RT<span>.</span></a>
+        <a className="brand" href="#home" aria-label="Rushikesh Thorat">
+  <img src="/profile.jpg" alt="Rushikesh Thorat" />
+</a>
         <nav>
           <a href="#home">Home</a>
           <a href="#about">About</a>
