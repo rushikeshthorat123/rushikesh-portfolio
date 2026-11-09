@@ -63,9 +63,13 @@ function App() {
             </div>
           </div>
           <div className="hero-card">
-            <div className="initials">RT</div>
-            <p>AI • Data • Web • Cloud</p>
-          </div>
+  <img
+    className="hero-photo"
+    src="/profile.jpg"
+    alt="Rushikesh Dilip Thorat"
+  />
+  <p>AI • Data • Web • Cloud</p>
+</div>
         </section>
 
         <section id="about" className="section">
